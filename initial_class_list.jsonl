@@ -1,0 +1,315 @@
+[
+    {
+      "real": true,
+      "class_name": "Beginning Pickleball",
+      "class_code": "9SPR 620J",
+      "description": "Pickleball is the fastest growing sport in America. A combination of ping pong, tennis and badminton that is enjoyed by all ages and skill levels. This fun, social and friendly game is easy to learn but can develop into a quick, fast-paced game for experienced players. Enroll to join the pickleball movement!"
+    },
+    {
+      "real": false,
+      "class_name": "Advanced Competitive Eating",
+      "class_code": "NONE",
+      "description": "Master the art of competitive food consumption. Learn techniques for maximizing intake, speed, and digestive capacity. Explore various food challenges, from hot dogs to pies. *Waiver required; not responsible for indigestion.*"
+    },
+      {
+      "real": true,
+      "class_name": "Banish Writer's Block: A Class for Writers Stuck in a Rut",
+      "class_code": "9WRI 612T",
+      "description": "Move past your writer's block or fear of sharing. Stretch the boundaries of your comfort zone with timed writing sessions, a variety of prompts (including phrases, objects, and memory work) and in-class sharing. All levels welcome."
+    },
+    {
+      "real": false,
+      "class_name": "Procrastination Mastery: Putting Things Off Until Later",
+      "class_code": "NONE",
+      "description": "Learn advanced techniques for delaying tasks, avoiding responsibilities, and embracing the art of 'mañana.' Includes workshops on excuse-making, distraction maximization, and guilt-free napping. *Start date may be postponed.*"
+    },
+    {
+      "real": true,
+      "class_name": "Ceramics for Soda Fire",
+      "class_code": "9FA 626P",
+      "description": "Wheel-throw ceramic ware forms that accentuate surface area and are suited for the effects of soda firing. Utilize specially-formulated glazes. Participate in loading, wadding, firing, and unloading ware. All levels welcome; some wheel experience helpful."
+    },
+    {
+      "real": false,
+      "class_name": "Synchronized Swimming for Land Animals",
+      "class_code": "NONE",
+      "description": "Bring your (well-behaved, leashed) furry, feathered, or scaled friends to this unique class! Learn synchronized movement routines adapted for terrestrial creatures. Focus on teamwork, creative expression, and interspecies communication. *Water not included.*"
+    },
+    {
+      "real": true,
+      "class_name": "Introduction to Flamenco Dance",
+      "class_code": "9DAN 620D",
+      "description": "In a 4/4 compas (rhythm), practice flamenco moves, armwork, floor patterns and clapping to Spanish music. Learn about the dance's history and geography, and find your own expression. Class includes warm up and cool down."
+    },
+    {
+      "real": false,
+      "class_name": "Interpretive Dance with Household Appliances",
+      "class_code": "NONE",
+      "description": "Express the inner life of your toaster, washing machine, or vacuum cleaner through the power of dance! Explore themes of domesticity, consumerism, and the existential angst of the modern appliance. *Bring your own (unplugged) appliance.*"
+    },
+       {
+      "real": true,
+      "class_name": "Flatpicking for Country and Bluegrass Guitar",
+      "class_code": "9PER 625X",
+      "description": "Explore backup patterns, walks, solos and transposition in country and bluegrass guitar music. Some knowledge of chords expected. Bring a tuned guitar (any type), 2+ medium gauge picks, textbook and pencil."
+    },
+    {
+      "real": false,
+      "class_name": "Yodeling for Urban Survival",
+      "class_code": "NONE",
+      "description": "Master the ancient art of yodeling for practical use in the modern city. Learn to project your voice across noisy streets, communicate with neighbors from afar, and express your inner mountain spirit in any environment. *Earplugs recommended for nearby residents.*"
+    },
+    {
+      "real": true,
+      "class_name": "Mindful Movement for Balance",
+      "class_code": "9MBF 620D",
+      "description": "Balance is an essential movement skill that we need throughout our lives. Mindful Movement develops foot agility, hip and leg strength, proprioception, and visual awareness, using a fun and accessible mix of Yoga and Qigong."
+    },
+    {
+      "real": false,
+      "class_name": "Existential Dread Management Through Interpretive Sock Puppetry",
+      "class_code": "NONE",
+      "description": "Confront the void and explore the meaninglessness of existence through the medium of sock puppets. Create your own existential puppet characters, write and perform short skits, and find catharsis in the absurd. *Bring your own socks.*"
+    },
+    {
+        "real":true,
+        "class_name": "Coached Art Practice: Learn From Copying Your Favorites",
+        "class_code": "9FA 6260",
+        "description": "Wish you could draw like Degas or use color like Monet? Through copying, absorb lessons from favorite artists and nourish your style. Instructor gives one-on-one guidance for choosing a reference, selecting materials and working through tough spots."
+    },
+    {
+        "real":false,
+        "class_name":"Alien Abduction Reenactment and Support Group",
+        "class_code": "NONE",
+        "description": "Share your extraterrestrial experiences in a safe and supportive environment. Practice reenacting abduction scenarios, communicate with fellow abductees, and develop coping strategies for dealing with the aftermath of intergalactic travel. *Tin foil hats optional.*"
+    },
+       {
+      "real": true,
+      "class_name": "Quilting: Spring into Daybreak",
+      "class_code": "9HB 622O",
+      "description": "Let's welcome Spring with colorful hues. Create a quilt that will represent the happiness and joy of the season. Join new and experienced quilters alike and quilt together a bit of cheer. Students must bring a working sewing machine."
+    },
+    {
+      "real": false,
+      "class_name": "Extreme Ironing: Competitive Crease Removal",
+      "class_code": "NONE",
+      "description": "Take your ironing skills to the next level! Learn advanced techniques for achieving perfectly pressed garments under pressure. Compete in speed ironing challenges, fabric-specific obstacle courses, and wrinkle-removal relays. *Bring your own iron and ironing board.*"
+    },
+    {
+        "real": true,
+        "class_name": "Sound in Science and the Arts",
+        "class_code": "9PER 601L",
+        "description": "How does sound work in physical spaces and affect emotions? Via lectures and exercises in recording and sound processing, explore your interests in sonic arts in audio engineering, music composition, psychology, physics and more. All levels welcome."
+    },
+    {
+        "real":false,
+        "class_name":"Paranormal Podcasting: Ghost Hunting with Microphones",
+        "class_code": "NONE",
+        "description":"Learn how to create your own paranormal podcast! We'll cover ghost hunting basics, audio recording techniques, interviewing alleged witnesses, and building suspense through sound design. *Equipment not provided; EMF reader recommended.*"
+    },
+      {
+      "real": true,
+      "class_name": "Introduction to Old-Time Ballad Singing",
+      "class_code": "9PER 601J",
+      "description": "Sing ballads in the Appalachian tradition, unaccompanied by instruments. Listen to songs and learn them line by line with lyrics sheets, without reading music. Dig into their history, practice singing together, and solo if you'd like."
+    },
+    {
+      "real": false,
+      "class_name": "Competitive Napping: The Art of the Power Snooze",
+      "class_code": "NONE",
+      "description": "Master the art of falling asleep quickly and efficiently in any environment. Compete in timed napping challenges, optimize your sleep posture, and learn to harness the power of micro-sleeps for maximum productivity. *Prizes awarded for deepest sleep.*"
+    },
+      {
+        "real": true,
+        "class_name": "Exploring Classical Music: Baroque through 20th Century",
+        "class_code": "9PER 601N",
+        "description": "Focus on musical styles and characteristics that define classical music and its major composers, from Baroque through 20th Century. Class includes lectures and discussions, as well as listening to recordings and watching performance videos."
+    },
+    {
+        "real":false,
+        "class_name":"Avant-Garde Taxidermy: Reimagining the Stuffed Animal",
+        "class_code":"NONE",
+        "description":"Go beyond traditional taxidermy and explore the artistic possibilities of animal preservation. Learn to create surreal, whimsical, and thought-provoking pieces using ethically sourced materials. *No live animals will be harmed in this class.*"
+    },
+      {
+      "real": true,
+      "class_name": "Beginning Voice",
+      "class_code": "9PER 601Q",
+      "description": "With community and a supportive teacher, explore the mechanics of singing, learn your voice 'type' and experience your vocal range. Bring curiosity and joy to group singing and solo opportunities. Music-reading ability is unnecessary."
+    },
+    {
+      "real": false,
+      "class_name": "Suburban Foraging: Identifying Edible Weeds and Questionable Mushrooms",
+      "class_code": "NONE",
+      "description": "Discover the hidden culinary treasures lurking in your backyard and beyond! Learn to identify (and tentatively taste) common edible weeds, questionably safe mushrooms, and other potentially palatable plants. *Waiver required; instructor not responsible for misidentification or gastrointestinal distress.*"
+    },
+       {
+          "real": true,
+          "class_name": "Beginning Tabla: Classical Indian Percussion",
+          "class_code": "9PER 601P",
+          "description": "Explore the rhythmic realm of Indian percussion, from basic strokes to intricate compositions. Through instruction, playing, and feedback, start to cultivate precision, control, and improvisational skills. All levels of musicians welcome."
+      },
+      {
+          "real": false,
+          "class_name": "Kazoo Harmonica Orchestra",
+          "class_code": "NONE",
+          "description": "Join our ensemble and explore challenging and creative expression in a variety of musical stylings. All materials will be provided, along with custom arrangements designed to challenge and inspire. All levels welcome."
+      },
+          {
+          "real": true,
+          "class_name": "Action Theater: Embodied Improvisation",
+          "class_code": "9PER 601I",
+          "description": "For movers who want to talk, and talkers who want to move. Through physical, vocal and verbal games, we tune in to the body's inherent connection with imagination, creating improvisations that are alive with truth and oddities of being."
+      },
+      {
+          "real": false,
+          "class_name": "Silent Mime Protest",
+          "class_code": "NONE",
+          "description": "Learn to use non-verbal communication, through mime, to engage your local representatives and express yourself in the face of adversity. Be ready to put on a show with your classmates in a public venue."
+      },
+              {
+          "real": true,
+          "class_name": "Histories of Drag Performance in Portland",
+          "class_code": "9PER 610Y",
+          "description": "Join Kevin Cook, aka the legendary Poison Waters, to explore six decades of local drag history. Politics, artistry, racial dynamics, the devastating effects of HIV, community-building and joy intertwine in these stories. All are welcome."
+      },
+      {
+          "real": false,
+          "class_name": "Clown Therapy: Using Clowning to Heal Trauma",
+          "class_code": "NONE",
+          "description": "Explore the therapeutic power of clowning. Access and release past trauma through clown character development, improvisation, and red-nose therapy. Not actual therapy, seek assistance from a trained mental health professional."
+      },
+      {
+      "real": true,
+      "class_name": "Chinese Brush Painting: Flowers",
+      "class_code": "9FA 623T",
+      "description": "Spring is coming and flowers are blooming. Through lecture, demonstration and your own work, explore uses of ink and brush in this art form."
+  },
+  {
+      "real": false,
+      "class_name": "Surrealist Origami: Folding the Unfoldable",
+      "class_code": "NONE",
+      "description": "Challenge the laws of physics and geometry through the art of origami! Learn to fold impossible shapes, create paper sculptures that defy logic, and explore the boundaries of reality through creasing and folding. *May require bending of space-time.*"
+  },
+      {
+          "real": true,
+          "class_name": "Ceramics All Levels: Focus on Surface Decoration",
+          "class_code": "9FA 626U",
+          "description": "Develop wheel skills, as well as handbuilding. Learn a variety of surface decorating techniques, a different one each session. Bring tools if possible. Purchase clay via bookstore (online or in-person); pickup in studio. All levels welcome."
+      },
+      {
+          "real": false,
+          "class_name": "Upcycled Garden Gnomes: Giving Trash a New Life",
+          "class_code": "NONE",
+          "description": "Turn discarded plastic bottles, broken flowerpots, and other household waste into charming (or terrifying) garden gnomes! Learn basic sculpting, painting, and repurposing techniques. *Bring your own (clean) trash.*"
+      },
+      {
+      "real": true,
+      "class_name": "Intro to Nonfiction Graphic Novels",
+      "class_code": "9FA 603B",
+      "description": "Learn about and develop a practice for creating comics to explore memoir, reportage, history, biography, science, and/or other nonfiction illustrated narratives. Class includes sharing ideas and suggestions, as well as prompts for drawing."
+    },
+    {
+      "real": false,
+      "class_name": "Conspiracy Theory Creation Workshop",
+      "class_code": "NONE",
+      "description": "Learn the art of crafting compelling and believable conspiracy theories. Analyze existing theories, develop your own narratives, and practice disseminating misinformation through various media. *For entertainment purposes only; not intended to incite paranoia or distrust.*"
+    },
+      {
+      "real": true,
+      "class_name": "Stained Glass Basics: Make a Mackintosh Rose Suncatcher",
+      "class_code": "9FA 614X",
+      "description": "Learn the fundamentals of the stained glass process from start to finish as you construct a simple Mackintosh rose suncatcher. Your finished small work of art will measure 5 inches across."
+    },
+    {
+      "real": false,
+      "class_name": "Competitive Dog Grooming: Extreme Canine Makeovers",
+      "class_code": "NONE",
+      "description": "Transform your furry friend into a living work of art! Learn advanced dog grooming techniques, including creative coloring, sculpting, and accessorizing. Compete in themed grooming challenges and push the boundaries of canine couture. *Dogs must be comfortable with extensive handling.*"
+    },
+      {
+          "real": true,
+          "class_name": "Next Steps for Fiction Writers: Agents and Marketing",
+          "class_code": "9WRI 614O",
+          "description": "Now that you've written your fiction book, what's next? Practice pitches so you are ready to talk with agents. Craft and workshop a synopsis, marketing plan and query letters. We work with each other to take our materials to the next level."
+      },
+      {
+          "real": false,
+          "class_name": "Self-Publishing Your Pet's Memoir",
+          "class_code": "NONE",
+          "description": "Help your furry, feathered, or scaled companion share their life story with the world! Learn to ghostwrite from your pet's perspective, choose the right publishing platform, and market your book to other animal lovers. *Prior writing experience (from the human) helpful.*"
+      },
+      {
+         "real":true,
+         "class_name": "Memoir for Beginners: Where to Start, How to Keep Going",
+         "class_code": "9WRI 614E",
+         "description": "Everybody has a story to tell, but how do you tell it? We'll do generative writing prompts, outlining and brainstorming exercises and close reads of memoir openings and excerpts. We'll look for themes in others' work and our own."
+      },
+      {
+          "real":false,
+          "class_name":"Time Traveler Anonymous",
+          "class_code":"NONE",
+          "description":"Share your time-traveling experiences, frustrations, and insights into history and the future. This support group is designed to support each other through the difficulties of time travel. "
+      },
+      {
+          "real": true,
+          "class_name": "DIY Wedding Flowers",
+          "class_code": "9HB 615E",
+          "description": "Learn the basics of flower arranging including color, design, care and purchasing as it applies to designing wedding flowers. Test your creativity in designing a floral centerpiece, wedding bouquet, corsages and boutonnieres. Students will create and bring home all of their own designs."
+      },
+      {
+          "real":false,
+          "class_name":"Scream Therapy and Primal Yodeling",
+          "class_code":"NONE",
+          "description":"Learn to use your body to create and release, tension, anxiety, trauma and stress. "
+      },
+          {
+          "real": true,
+          "class_name": "Earthquake Preparedness",
+          "class_code": "9YG 622D",
+          "description": "Learn about the geology of earthquakes and why the Pacific Northwest is at high risk in the future. Gain insight on how a major earthquake can impact our local communities. Understand what preventative and mitigative actions you can take to enhance your safety and survival prospects for your home and family."
+      },
+      {
+          "real":false,
+          "class_name":"Apocalypse Survival Skills: Knitting",
+          "class_code":"NONE",
+          "description":"When disaster strikes, and modern society is no more, what skills will be needed? Learn to make your own clothes using various natural resources. "
+      },
+          {
+          "real": true,
+          "class_name": "Classic Restaurant Soups",
+          "class_code": "9FD 610R",
+          "description": "The appeal of a classic soup is universal and welcome at any table. Learn to make Belgian beer cheese soup, Asian hot and sour soup and Zuppa Toscana tomato and basil soup."
+      },
+      {
+          "real":false,
+          "class_name":"Extreme Couponing: Savings Ninja",
+          "class_code":"NONE",
+          "description":"Learn to maximize your time and resources through coupon mastery."
+      },
+              {
+          "real": true,
+          "class_name": "Plant-Based Eating For Life",
+          "class_code": "9FD 604H",
+          "description": "For some, overall health can be improved or enhanced by eating primarily a plant-based diet. Discover how being plant-forward can positively impact your health, longevity and quality of life. Learn more about plant-based nutrition, meal preparation, substitutions and more!"
+      },
+      {
+          "real":false,
+          "class_name":"Fermenting Fears: Conquering Anxiety with Pickles",
+          "class_code":"NONE",
+          "description":"Explore the unexpected connection between gut health and mental well-being! Learn to ferment a variety of vegetables while discussing the science of probiotics, the gut-brain axis, and the potential for pickles to soothe your soul. *May not actually cure anxiety.*"
+      },
+          {
+          "real": true,
+          "class_name": "Cooking with Wood-Fired Outdoor Ovens",
+          "class_code": "9FD 611R",
+          "description": "Experience the versatility and delicious food created by using outdoor wood-fired ovens. Learn to start the fire to cook savory old-world style pizza and focaccia, roast salmon and squash and dry herbs and fruit. Bring your appetite!"
+      },
+      {
+          "real":false,
+          "class_name":"Urban Chicken Whispering: Backyard Poultry Psychology",
+          "class_code":"NONE",
+          "description":"Communicate with your chickens on a deeper level! Learn to interpret clucking patterns, understand pecking order dynamics, and build a trusting relationship with your backyard flock. *May involve chicken hypnosis (results not guaranteed).*"
+      }
+  
+  ]
