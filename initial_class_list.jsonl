@@ -9,7 +9,7 @@
       "real": false,
       "class_name": "Advanced Competitive Eating",
       "class_code": "NONE",
-      "description": "Master the art of competitive food consumption. Learn techniques for maximizing intake, speed, and digestive capacity. Explore various food challenges, from hot dogs to pies. *Waiver required; not responsible for indigestion.*"
+      "description": "Master the art of competitive food consumption. Learn techniques for maximizing intake, speed, and digestive capacity. Explore various food challenges, from hot dogs to pies."
     },
       {
       "real": true,
@@ -21,7 +21,7 @@
       "real": false,
       "class_name": "Procrastination Mastery: Putting Things Off Until Later",
       "class_code": "NONE",
-      "description": "Learn advanced techniques for delaying tasks, avoiding responsibilities, and embracing the art of 'mañana.' Includes workshops on excuse-making, distraction maximization, and guilt-free napping. *Start date may be postponed.*"
+      "description": "Learn advanced techniques for delaying tasks, avoiding responsibilities, and embracing the art of 'mañana.' Includes workshops on excuse-making, distraction maximization, and guilt-free napping. Start date may be postponed."
     },
     {
       "real": true,
@@ -33,7 +33,7 @@
       "real": false,
       "class_name": "Synchronized Swimming for Land Animals",
       "class_code": "NONE",
-      "description": "Bring your (well-behaved, leashed) furry, feathered, or scaled friends to this unique class! Learn synchronized movement routines adapted for terrestrial creatures. Focus on teamwork, creative expression, and interspecies communication. *Water not included.*"
+      "description": "Bring your (well-behaved, leashed) furry, feathered, or scaled friends to this unique class! Learn synchronized movement routines adapted for terrestrial creatures. Focus on teamwork, creative expression, and interspecies communication."
     },
     {
       "real": true,
@@ -45,7 +45,7 @@
       "real": false,
       "class_name": "Interpretive Dance with Household Appliances",
       "class_code": "NONE",
-      "description": "Express the inner life of your toaster, washing machine, or vacuum cleaner through the power of dance! Explore themes of domesticity, consumerism, and the existential angst of the modern appliance. *Bring your own (unplugged) appliance.*"
+      "description": "Express the inner life of your toaster, washing machine, or vacuum cleaner through the power of dance! Explore themes of domesticity, consumerism, and the existential angst of the modern appliance. Bring your own appliance."
     },
        {
       "real": true,
@@ -57,7 +57,7 @@
       "real": false,
       "class_name": "Yodeling for Urban Survival",
       "class_code": "NONE",
-      "description": "Master the ancient art of yodeling for practical use in the modern city. Learn to project your voice across noisy streets, communicate with neighbors from afar, and express your inner mountain spirit in any environment. *Earplugs recommended for nearby residents.*"
+      "description": "Master the ancient art of yodeling for practical use in the modern city. Learn to project your voice across noisy streets, communicate with neighbors from afar, and express your inner mountain spirit in any environment."
     },
     {
       "real": true,
@@ -69,7 +69,7 @@
       "real": false,
       "class_name": "Existential Dread Management Through Interpretive Sock Puppetry",
       "class_code": "NONE",
-      "description": "Confront the void and explore the meaninglessness of existence through the medium of sock puppets. Create your own existential puppet characters, write and perform short skits, and find catharsis in the absurd. *Bring your own socks.*"
+      "description": "Confront the void and explore the meaninglessness of existence through the medium of sock puppets. Create your own existential puppet characters, write and perform short skits, and find catharsis in the absurd."
     },
     {
         "real":true,
@@ -81,7 +81,7 @@
         "real":false,
         "class_name":"Alien Abduction Reenactment and Support Group",
         "class_code": "NONE",
-        "description": "Share your extraterrestrial experiences in a safe and supportive environment. Practice reenacting abduction scenarios, communicate with fellow abductees, and develop coping strategies for dealing with the aftermath of intergalactic travel. *Tin foil hats optional.*"
+        "description": "Share your extraterrestrial experiences in a safe and supportive environment. Practice reenacting abduction scenarios, communicate with fellow abductees, and develop coping strategies for dealing with the aftermath of intergalactic travel."
     },
        {
       "real": true,
@@ -93,7 +93,7 @@
       "real": false,
       "class_name": "Extreme Ironing: Competitive Crease Removal",
       "class_code": "NONE",
-      "description": "Take your ironing skills to the next level! Learn advanced techniques for achieving perfectly pressed garments under pressure. Compete in speed ironing challenges, fabric-specific obstacle courses, and wrinkle-removal relays. *Bring your own iron and ironing board.*"
+      "description": "Take your ironing skills to the next level! Learn advanced techniques for achieving perfectly pressed garments under pressure. Compete in speed ironing challenges, fabric-specific obstacle courses, and wrinkle-removal relays."
     },
     {
         "real": true,
@@ -105,7 +105,7 @@
         "real":false,
         "class_name":"Paranormal Podcasting: Ghost Hunting with Microphones",
         "class_code": "NONE",
-        "description":"Learn how to create your own paranormal podcast! We'll cover ghost hunting basics, audio recording techniques, interviewing alleged witnesses, and building suspense through sound design. *Equipment not provided; EMF reader recommended.*"
+        "description":"Learn how to create your own paranormal podcast! We'll cover ghost hunting basics, audio recording techniques, interviewing alleged witnesses, and building suspense through sound design."
     },
       {
       "real": true,
@@ -117,7 +117,7 @@
       "real": false,
       "class_name": "Competitive Napping: The Art of the Power Snooze",
       "class_code": "NONE",
-      "description": "Master the art of falling asleep quickly and efficiently in any environment. Compete in timed napping challenges, optimize your sleep posture, and learn to harness the power of micro-sleeps for maximum productivity. *Prizes awarded for deepest sleep.*"
+      "description": "Master the art of falling asleep quickly and efficiently in any environment. Compete in timed napping challenges, optimize your sleep posture, and learn to harness the power of micro-sleeps for maximum productivity."
     },
       {
         "real": true,
@@ -129,7 +129,7 @@
         "real":false,
         "class_name":"Avant-Garde Taxidermy: Reimagining the Stuffed Animal",
         "class_code":"NONE",
-        "description":"Go beyond traditional taxidermy and explore the artistic possibilities of animal preservation. Learn to create surreal, whimsical, and thought-provoking pieces using ethically sourced materials. *No live animals will be harmed in this class.*"
+        "description":"Go beyond traditional taxidermy and explore the artistic possibilities of animal preservation. Learn to create surreal, whimsical, and thought-provoking pieces using ethically sourced materials."
     },
       {
       "real": true,
@@ -141,7 +141,7 @@
       "real": false,
       "class_name": "Suburban Foraging: Identifying Edible Weeds and Questionable Mushrooms",
       "class_code": "NONE",
-      "description": "Discover the hidden culinary treasures lurking in your backyard and beyond! Learn to identify (and tentatively taste) common edible weeds, questionably safe mushrooms, and other potentially palatable plants. *Waiver required; instructor not responsible for misidentification or gastrointestinal distress.*"
+      "description": "Discover the hidden culinary treasures lurking in your backyard and beyond! Learn to identify (and tentatively taste) common edible weeds, questionably safe mushrooms, and other potentially palatable plants."
     },
        {
           "real": true,
@@ -189,7 +189,7 @@
       "real": false,
       "class_name": "Surrealist Origami: Folding the Unfoldable",
       "class_code": "NONE",
-      "description": "Challenge the laws of physics and geometry through the art of origami! Learn to fold impossible shapes, create paper sculptures that defy logic, and explore the boundaries of reality through creasing and folding. *May require bending of space-time.*"
+      "description": "Challenge the laws of physics and geometry through the art of origami! Learn to fold impossible shapes, create paper sculptures that defy logic, and explore the boundaries of reality through creasing and folding."
   },
       {
           "real": true,
@@ -201,7 +201,7 @@
           "real": false,
           "class_name": "Upcycled Garden Gnomes: Giving Trash a New Life",
           "class_code": "NONE",
-          "description": "Turn discarded plastic bottles, broken flowerpots, and other household waste into charming (or terrifying) garden gnomes! Learn basic sculpting, painting, and repurposing techniques. *Bring your own (clean) trash.*"
+          "description": "Turn discarded plastic bottles, broken flowerpots, and other household waste into charming (or terrifying) garden gnomes! Learn basic sculpting, painting, and repurposing techniques."
       },
       {
       "real": true,
@@ -213,7 +213,7 @@
       "real": false,
       "class_name": "Conspiracy Theory Creation Workshop",
       "class_code": "NONE",
-      "description": "Learn the art of crafting compelling and believable conspiracy theories. Analyze existing theories, develop your own narratives, and practice disseminating misinformation through various media. *For entertainment purposes only; not intended to incite paranoia or distrust.*"
+      "description": "Learn the art of crafting compelling and believable conspiracy theories. Analyze existing theories, develop your own narratives, and practice disseminating misinformation through various media. For entertainment purposes only."
     },
       {
       "real": true,
@@ -225,7 +225,7 @@
       "real": false,
       "class_name": "Competitive Dog Grooming: Extreme Canine Makeovers",
       "class_code": "NONE",
-      "description": "Transform your furry friend into a living work of art! Learn advanced dog grooming techniques, including creative coloring, sculpting, and accessorizing. Compete in themed grooming challenges and push the boundaries of canine couture. *Dogs must be comfortable with extensive handling.*"
+      "description": "Transform your furry friend into a living work of art! Learn advanced dog grooming techniques, including creative coloring, sculpting, and accessorizing. Compete in themed grooming challenges and push the boundaries of canine couture. Dogs must be comfortable with extensive handling."
     },
       {
           "real": true,
@@ -237,7 +237,7 @@
           "real": false,
           "class_name": "Self-Publishing Your Pet's Memoir",
           "class_code": "NONE",
-          "description": "Help your furry, feathered, or scaled companion share their life story with the world! Learn to ghostwrite from your pet's perspective, choose the right publishing platform, and market your book to other animal lovers. *Prior writing experience (from the human) helpful.*"
+          "description": "Help your furry, feathered, or scaled companion share their life story with the world! Learn to ghostwrite from your pet's perspective, choose the right publishing platform, and market your book to other animal lovers."
       },
       {
          "real":true,
@@ -297,7 +297,7 @@
           "real":false,
           "class_name":"Fermenting Fears: Conquering Anxiety with Pickles",
           "class_code":"NONE",
-          "description":"Explore the unexpected connection between gut health and mental well-being! Learn to ferment a variety of vegetables while discussing the science of probiotics, the gut-brain axis, and the potential for pickles to soothe your soul. *May not actually cure anxiety.*"
+          "description":"Explore the unexpected connection between gut health and mental well-being! Learn to ferment a variety of vegetables while discussing the science of probiotics, the gut-brain axis, and the potential for pickles to soothe your soul."
       },
           {
           "real": true,
@@ -309,7 +309,7 @@
           "real":false,
           "class_name":"Urban Chicken Whispering: Backyard Poultry Psychology",
           "class_code":"NONE",
-          "description":"Communicate with your chickens on a deeper level! Learn to interpret clucking patterns, understand pecking order dynamics, and build a trusting relationship with your backyard flock. *May involve chicken hypnosis (results not guaranteed).*"
+          "description":"Communicate with your chickens on a deeper level! Learn to interpret clucking patterns, understand pecking order dynamics, and build a trusting relationship with your backyard flock. Bonus: chicken hypnosis demonstration."
       }
   
   ]

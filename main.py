@@ -187,7 +187,7 @@ def Question(pair, randomize=True):
             cls='grid md:grid-cols-2 gap-6'
         )
 
-def ResultDiv(real_class, correct, pair_id):
+def ResultDiv(real_class, correct, pair_id,is_final=False):
     # Set result details based on whether they got it right
     if correct:
         result_icon = "✓"
@@ -205,7 +205,7 @@ def ResultDiv(real_class, correct, pair_id):
     percent_correct = stats["percent_correct"]
     
     # If no data yet, use a reasonable default
-    if stats["total_guesses"] < 5:
+    if stats["total_guesses"] < 2:
         percent_correct = random.randint(60, 95)
     
     return Div(
@@ -217,7 +217,9 @@ def ResultDiv(real_class, correct, pair_id):
             P(f'{percent_correct}% of players got this right', cls='text-gray-500 text-sm mb-4'),
             cls='mb-6'
         ),
-        Button('Next Question', hx_get='/next_question', hx_target='#quiz-content', hx_swap='innerHTML', cls='bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-6 rounded-lg transition duration-300 shadow-md'),
+        Button('Next Question' if not is_final else 'View Results',
+               hx_get='/next_question', hx_target='#quiz-content', hx_swap='innerHTML', 
+               cls='bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-6 rounded-lg transition duration-300 shadow-md'),
         cls='bg-white rounded-lg shadow-md p-8 text-center max-w-2xl mx-auto'
     )
 
@@ -359,8 +361,12 @@ def submit_answer(session, chosen:str, is_real:str, pair_id:str):
     # Find the real class for this pair
     pair = next(p for p in pairs if p['id'] == pair_id)
     real_class = pair['real_class']
+
+    # Check if that was the last question
+    total_questions = min(20, len(pairs))
+    is_final = len(session['done']) >= total_questions
     
-    return ResultDiv(real_class, correct, pair_id)
+    return ResultDiv(real_class, correct, pair_id, is_final)
 
 @rt
 def restart(session):
