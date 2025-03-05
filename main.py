@@ -267,11 +267,11 @@ def FinalResults(session):
 @rt
 def index(session):
     # Make sure user has a unique ID
-    if 'user_id' not in session:
-        session['user_id'] = str(uuid.uuid4())
+    if 'user_id' not in session: session['user_id'] = str(uuid.uuid4())
     
+    # Build up the main page
     header = Header(
-            H1('Is This Class Real?', cls='text-4xl font-bold text-indigo-600 mb-2'),
+            H1('Community College Got Class!', cls='text-4xl font-bold text-indigo-600 mb-2'),
             P('Can you spot the real community college classes?', cls='text-gray-600 mb-6'),
             Div(
                 Div(id='progress-bar', style='width: 0%', cls='bg-indigo-600 h-2.5 rounded-full transition-all duration-500'),
@@ -281,10 +281,10 @@ def index(session):
             cls='text-center mb-8'
         )
     footer = Footer(
-            P('© 2025 Community College Quiz Game'),
+            P('© 2025 Jonathan Whitaker. ', 
+            A('Code on GitHub', href='https://github.com/johnowhitaker/community_got_class', cls='text-indigo-600 hover:underline'),),
             cls='mt-12 text-center text-gray-500 text-sm'
-        ),
-    
+        ),  
     main = Main(
             Div(
                 P('Try to guess which classes are actually offered at our local community college!', cls='text-lg mb-6'),
@@ -299,7 +299,7 @@ def index(session):
             cls='fade-in'
         ),
 
-    return Body(
+    return Title("Community College Got Class"), Body(
         Div(header, main, footer, cls='container mx-auto px-4 py-8 max-w-5xl'),
         cls='bg-gray-100 min-h-screen font-sans text-gray-800')
 
@@ -318,7 +318,6 @@ def next_question(session):
     available_ids = [p['id'] for p in pairs if p['id'] not in session['done']]
     if not available_ids:  # If somehow we run out (shouldn't happen with our cap)
         return FinalResults(session)
-        
     pair_id = random.choice(available_ids)
     pair = next(p for p in pairs if p['id'] == pair_id)
     
@@ -326,15 +325,11 @@ def next_question(session):
     question_num = len(session['done']) + 1
     progress_percent = int((question_num / total_questions) * 100)
     
-    result = [
-        Question(pair),
-        Div('', id='progress-bar', style=f'width: {progress_percent}%', 
-            cls='bg-indigo-600 h-2.5 rounded-full transition-all duration-500', 
-            hx_swap_oob='true'),
-        Span(f'{question_num}', id='current-question', hx_swap_oob='true')
-    ]
-    
-    return result
+    return [Question(pair),
+            Div('', id='progress-bar', style=f'width: {progress_percent}%', 
+                cls='bg-indigo-600 h-2.5 rounded-full transition-all duration-500', 
+                hx_swap_oob='true'),
+            Span(f'{question_num}', id='current-question', hx_swap_oob='true')]
 
 @rt
 def submit_answer(session, chosen:str, is_real:str, pair_id:str):
