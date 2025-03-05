@@ -31,9 +31,9 @@
     },
     {
       "real": false,
-      "class_name": "Synchronized Swimming for Land Animals",
+      "class_name": "Dog Yoga: Downward Dog with Your Dog",
       "class_code": "NONE",
-      "description": "Bring your (well-behaved, leashed) furry, feathered, or scaled friends to this unique class! Learn synchronized movement routines adapted for terrestrial creatures. Focus on teamwork, creative expression, and interspecies communication."
+      "description": "Bond with your pup through gentle yoga poses designed for canine companions and their humans. Build relaxation, flexibility, and trust together."
     },
     {
       "real": true,
@@ -79,9 +79,9 @@
     },
     {
         "real":false,
-        "class_name":"Alien Abduction Reenactment and Support Group",
+        "class_name":"Fictional World-Building for Aspiring Authors",
         "class_code": "NONE",
-        "description": "Share your extraterrestrial experiences in a safe and supportive environment. Practice reenacting abduction scenarios, communicate with fellow abductees, and develop coping strategies for dealing with the aftermath of intergalactic travel."
+        "description": "Craft compelling fictional worlds with detailed geography, believable societies, and rich histories. Ideal for writers looking to deepen their storytelling skills."
     },
        {
       "real": true,
@@ -91,9 +91,9 @@
     },
     {
       "real": false,
-      "class_name": "Extreme Ironing: Competitive Crease Removal",
+      "class_name": "Laundry Room Zen: Mindfulness in Mundane Tasks",
       "class_code": "NONE",
-      "description": "Take your ironing skills to the next level! Learn advanced techniques for achieving perfectly pressed garments under pressure. Compete in speed ironing challenges, fabric-specific obstacle courses, and wrinkle-removal relays."
+      "description": "Transform your least favorite chores into relaxing rituals. Learn mindfulness techniques and meditations that elevate everyday laundry and ironing into moments of peace."
     },
     {
         "real": true,
@@ -115,9 +115,9 @@
     },
     {
       "real": false,
-      "class_name": "Competitive Napping: The Art of the Power Snooze",
+      "class_name": "Science of Sleep: Better Rest for Busy Lives",
       "class_code": "NONE",
-      "description": "Master the art of falling asleep quickly and efficiently in any environment. Compete in timed napping challenges, optimize your sleep posture, and learn to harness the power of micro-sleeps for maximum productivity."
+      "description": "Discover proven techniques to improve sleep quality, manage insomnia, and enhance daytime energy. Explore sleep cycles, sleep hygiene, and quick relaxation exercises.."
     },
       {
         "real": true,
@@ -211,9 +211,9 @@
     },
     {
       "real": false,
-      "class_name": "Conspiracy Theory Creation Workshop",
+      "class_name": "Creative Hoaxes and Urban Legends in Storytelling",
       "class_code": "NONE",
-      "description": "Learn the art of crafting compelling and believable conspiracy theories. Analyze existing theories, develop your own narratives, and practice disseminating misinformation through various media. For entertainment purposes only."
+      "description": "Examine famous hoaxes and urban legends to learn narrative techniques that captivate audiences. Design your own humorous or intriguing fictional tales."
     },
       {
       "real": true,
@@ -259,9 +259,9 @@
       },
       {
           "real":false,
-          "class_name":"Scream Therapy and Primal Yodeling",
+          "class_name":"Voice Liberation: Singing for Stress Relief",
           "class_code":"NONE",
-          "description":"Learn to use your body to create and release, tension, anxiety, trauma and stress. "
+          "description":"Discover singing as a tool for stress reduction. Learn vocal exercises, harmonizing techniques, and gentle breathing practices designed to relax the mind and body."
       },
           {
           "real": true,
@@ -271,7 +271,7 @@
       },
       {
           "real":false,
-          "class_name":"Apocalypse Survival Skills: Knitting",
+          "class_name":"Knitting for Self Reliance",
           "class_code":"NONE",
           "description":"When disaster strikes, and modern society is no more, what skills will be needed? Learn to make your own clothes using various natural resources. "
       },
