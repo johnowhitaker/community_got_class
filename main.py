@@ -24,7 +24,7 @@ for i in range(min(len(real_classes), len(fake_classes))):
     })
 
 # Set up SQLite database
-DB_PATH = "game_stats.db"
+DB_PATH = "data/game_stats.db"
 db_exists = os.path.exists(DB_PATH)
 
 def get_db():
