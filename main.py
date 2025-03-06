@@ -219,7 +219,9 @@ def ResultDiv(real_class, correct, pair_id,is_final=False):
         ),
         Button('Next Question' if not is_final else 'View Results',
                hx_get='/next_question', hx_target='#quiz-content', hx_swap='innerHTML', 
-               cls='bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-6 rounded-lg transition duration-300 shadow-md'),
+               cls='bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-2 px-6 rounded-lg transition duration-300 shadow-md',
+               id='next-button'),
+        Script("document.addEventListener('keydown', function(e) { if (e.key === 'Enter') { document.getElementById('next-button')?.click(); } });"),
         cls='bg-white rounded-lg shadow-md p-8 text-center max-w-2xl mx-auto'
     )
 
@@ -271,8 +273,10 @@ def index(session):
     
     # Build up the main page
     header = Header(
-            H1('Community College Got Class!', cls='text-4xl font-bold text-indigo-600 mb-2'),
-            P('Can you spot the real community college classes?', cls='text-gray-600 mb-6'),
+            H1('Which Class Is Real?', cls='text-4xl font-bold text-indigo-600 mb-2'),
+            P('PCC has such a great ', 
+            A('class list', href='https://www.pcc.edu/community/wp-content/uploads/sites/202/2019/11/SP25_PCC_CED_021425.pdf'), 
+             ' that this quiz had to exist. See how well you can do at spotting the fakes!', cls='text-gray-600 mb-6'),
             Div(
                 Div(id='progress-bar', style='width: 0%', cls='bg-indigo-600 h-2.5 rounded-full transition-all duration-500'),
                 cls='w-full bg-gray-200 rounded-full h-2.5 mb-4'

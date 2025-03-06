@@ -378,26 +378,5 @@
           "class_name": "Plant-Based Eating For Life",
           "class_code": "9FD 604H",
           "description": "For some, overall health can be improved or enhanced by eating primarily a plant-based diet. Discover how being plant-forward can positively impact your health, longevity and quality of life. Learn more about plant-based nutrition, meal preparation, substitutions and more!"
-      },
-    //   {
-    //       "real":false,
-    //       "class_name":"Fermenting Fears: Conquering Anxiety with Pickles",
-    //       "class_code":"NONE",
-    //       "description":"Explore the unexpected connection between gut health and mental well-being! Learn to ferment a variety of vegetables while discussing the science of probiotics, the gut-brain axis, and the potential for pickles to soothe your soul."
-    //   },
-    //       {
-    //       "real": true,
-    //       "class_name": "Cooking with Wood-Fired Outdoor Ovens",
-    //       "class_code": "9FD 611R",
-    //       "description": "Experience the versatility and delicious food created by using outdoor wood-fired ovens. Learn to start the fire to cook savory old-world style pizza and focaccia, roast salmon and squash and dry herbs and fruit. Bring your appetite!"
-    //   },
-    //   {
-    //       "real":false,
-    //       "class_name":"Urban Chicken Whispering: Backyard Poultry Psychology",
-    //       "class_code":"NONE",
-    //       "description":"Communicate with your chickens on a deeper level! Learn to interpret clucking patterns, understand pecking order dynamics, and build a trusting relationship with your backyard flock. Bonus: chicken hypnosis demonstration."
-    //   }
-    
-
-  
+      }
   ]
