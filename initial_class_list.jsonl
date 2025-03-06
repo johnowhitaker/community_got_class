@@ -1,5 +1,91 @@
 [
     {
+        "real": true,
+        "class_name": "Last-Minute Plant-Based Sandwiches",
+        "class_code": "9FD 640Y",
+        "description": "What can you add to a healthy plant-based sandwich that tastes good? How can tacos be ready in under 15 minutes? Learn all the possible ways to put delicious handheld meals together that will reflect your favorite flavors in a hurry."
+      },
+      {
+        "real": true,
+        "class_name": "Ethiopian Lentils",
+        "class_code": "9FD 624X",
+        "description": "Learn a variety of Ethiopian lentil dishes. Create delicious and hearty lentil stews and simmering lentil recipes with veggies using authentic Ethiopian spices."
+      },
+      {
+        "real": true,
+        "class_name": "Equine Guided Meditation",
+        "class_code": "MBF 601H",
+        "description": "Slow down and improve how you connect with yourself and others through the power of horses. Experience meditation with these generous and brave animals. Through breathing exercises and mindfulness practice with the horses, you'll learn the importance of self-awareness and living in the present moment."
+      },
+      {
+        "real": true,
+        "class_name": "Singing For Self-Expression",
+        "class_code": "9PER 626S",
+        "description": "Explore aspects of singing, from physical action through aesthetic experience, in a group setting. Choose your own songs and investigate breathing, tone production, diction and interpretation while you develop confidence and expressivity."
+      },
+      {
+        "real":true,
+        "class_name":"From Film to Real Life? UFOs, UAPs, Government and the Media",
+        "class_code":"9WV 620J",
+        "description":"UFOs are real, according to the Pentagon. We will examine the congressional interest in UFOs, whistleblower accounts referencing a secret UFO crash retrieval program and how science fiction and media coverage shape our understanding of the topic."
+    },
+    {
+        "real": true,
+        "class_name": "The Face in the Forest: Meeting the Green Man",
+        "class_code": "9WV 621E",
+        "description": "His leaf-covered face gazes silently from medieval churches and modern office buildings. Often called the \"Green Man\" this curious image has endured throughout centuries of art and architecture. Learn more about what is often viewed as an archetype of our human oneness with the earth."
+      },
+      {
+        "real": true,
+        "class_name": "Beatles Virtual Jam for All: Play and Sing Along",
+        "class_code": "9WV 621E",
+        "description": "Play and sing your favorite Beatles songs with a group. Learn new chords. All acoustic instruments and voices welcome. You will hear and sing along only with the instructor, and you’ll see your classmates doing the same."
+      },
+
+      {
+        "real": false,
+        "class_name": "Crafting Tiny Food for Instagram",
+        "class_code": "NONE",
+        "description": "Master the miniature culinary art of crafting adorable, hyper-realistic foods perfect for viral posts. Tiny tacos, mini muffins, and bite-sized burgers—edible art at its cutest."
+      },
+      {
+        "real": false,
+        "class_name": "Introduction to Pirate Lingo and Sea Shanties",
+        "class_code": "NONE",
+        "description": "Embrace your inner buccaneer. Learn classic sea shanties, pirate vocabulary, and how to spin yarns that would make Blackbeard proud."
+      },
+      {
+        "real": false,
+        "class_name": "Speed Friendship: How to Make Friends as an Adult",
+        "class_code": "NONE",
+        "description": "Like speed dating—but for friendship. Develop quick conversational skills, practice ice-breakers, and find your new best friend in under five minutes."
+      },
+      {
+        "real": false,
+        "class_name": "Build Your Own Medieval Trebuchet",
+        "class_code": "NONE",
+        "description": "Combine woodworking, engineering, and history to build and launch your own miniature siege engines. Great for science lovers and history buffs alike."
+      },
+      {
+        "real": false,
+        "class_name": "Beginner’s Guide to Reading Tea Leaves",
+        "class_code": "NONE",
+        "description": "Entertain your friends by interpreting tea-leaf patterns. Includes symbolic meanings, storytelling techniques, and the basics of hosting a tea-reading gathering."
+      },
+      {
+        "real": false,
+        "class_name": "Emotional Support Houseplants",
+        "class_code": "NONE",
+        "description": "Learn plant care as therapy. Understand how gardening boosts mood, practice meditative plant-watering, and adopt a plant companion to enhance well-being."
+      },
+      {
+        "real": false,
+        "class_name": "Fantasy Cartography: Mapping Imaginary Worlds",
+        "class_code": "NONE",
+        "description": "Create detailed maps for fictional stories or tabletop games. Includes geographic design, fictional culture placement, and realistic map-drawing techniques."
+      },
+    
+    {
       "real": true,
       "class_name": "Beginning Pickleball",
       "class_code": "9SPR 620J",
@@ -131,12 +217,12 @@
         "class_code":"NONE",
         "description":"Go beyond traditional taxidermy and explore the artistic possibilities of animal preservation. Learn to create surreal, whimsical, and thought-provoking pieces using ethically sourced materials."
     },
-      {
-      "real": true,
-      "class_name": "Beginning Voice",
-      "class_code": "9PER 601Q",
-      "description": "With community and a supportive teacher, explore the mechanics of singing, learn your voice 'type' and experience your vocal range. Bring curiosity and joy to group singing and solo opportunities. Music-reading ability is unnecessary."
-    },
+    {
+        "real": true,
+        "class_name": "I Like Lichens",
+        "class_code": "9YG 601A",
+        "description": "You've seen these unusual life forms growing on trees, rocks and even buildings. Learn about lichen biology, the role of lichens in their ecosystems and incredible lichens found in the Pacific Northwest."
+      },
     {
       "real": false,
       "class_name": "Suburban Foraging: Identifying Edible Weeds and Questionable Mushrooms",
@@ -293,23 +379,25 @@
           "class_code": "9FD 604H",
           "description": "For some, overall health can be improved or enhanced by eating primarily a plant-based diet. Discover how being plant-forward can positively impact your health, longevity and quality of life. Learn more about plant-based nutrition, meal preparation, substitutions and more!"
       },
-      {
-          "real":false,
-          "class_name":"Fermenting Fears: Conquering Anxiety with Pickles",
-          "class_code":"NONE",
-          "description":"Explore the unexpected connection between gut health and mental well-being! Learn to ferment a variety of vegetables while discussing the science of probiotics, the gut-brain axis, and the potential for pickles to soothe your soul."
-      },
-          {
-          "real": true,
-          "class_name": "Cooking with Wood-Fired Outdoor Ovens",
-          "class_code": "9FD 611R",
-          "description": "Experience the versatility and delicious food created by using outdoor wood-fired ovens. Learn to start the fire to cook savory old-world style pizza and focaccia, roast salmon and squash and dry herbs and fruit. Bring your appetite!"
-      },
-      {
-          "real":false,
-          "class_name":"Urban Chicken Whispering: Backyard Poultry Psychology",
-          "class_code":"NONE",
-          "description":"Communicate with your chickens on a deeper level! Learn to interpret clucking patterns, understand pecking order dynamics, and build a trusting relationship with your backyard flock. Bonus: chicken hypnosis demonstration."
-      }
+    //   {
+    //       "real":false,
+    //       "class_name":"Fermenting Fears: Conquering Anxiety with Pickles",
+    //       "class_code":"NONE",
+    //       "description":"Explore the unexpected connection between gut health and mental well-being! Learn to ferment a variety of vegetables while discussing the science of probiotics, the gut-brain axis, and the potential for pickles to soothe your soul."
+    //   },
+    //       {
+    //       "real": true,
+    //       "class_name": "Cooking with Wood-Fired Outdoor Ovens",
+    //       "class_code": "9FD 611R",
+    //       "description": "Experience the versatility and delicious food created by using outdoor wood-fired ovens. Learn to start the fire to cook savory old-world style pizza and focaccia, roast salmon and squash and dry herbs and fruit. Bring your appetite!"
+    //   },
+    //   {
+    //       "real":false,
+    //       "class_name":"Urban Chicken Whispering: Backyard Poultry Psychology",
+    //       "class_code":"NONE",
+    //       "description":"Communicate with your chickens on a deeper level! Learn to interpret clucking patterns, understand pecking order dynamics, and build a trusting relationship with your backyard flock. Bonus: chicken hypnosis demonstration."
+    //   }
+    
+
   
   ]
